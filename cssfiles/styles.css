@@ -1,7 +1,13 @@
+.profile{
+  color: #413F42;
+  font-weight: 500;
+}
 body {
   color: #533E85;
   Background-color: #F6F6F6;
-  font-family: sans-serif;
+  font-family: Arial;
+  margin-left: 30px;
+  line-height: 1.5;
 }
 
 hr {
@@ -13,14 +19,24 @@ hr {
 
 img {
   height: 100px;
-  width=100px;
+  width:100px;
 }
 
 h2 {
   color: #800080;
-  font-size: 1.2em;
+  font-size: 1.2em;}
+  h2:hover{
+  background-color: #DAEAF1;
 }
 
 h1 {
   color: #051367;
+}
+.qualification{
+  width:100%;
+
+}
+.skills{
+  margin-left:20px;
+  width:40%;
 }
